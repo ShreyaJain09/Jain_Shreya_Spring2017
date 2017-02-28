@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+mast boston,Boston,US,0,1100,2300
+mast boston,Boston,US,1,1100,2300
+mast boston,Boston,US,2,1100,2300
+mast boston,Boston,US,3,1100,0200
+mast boston,Boston,US,4,1100,0200
+mast boston,Boston,US,5,1600,0200
+mast boston,Boston,US,6,1600,2300

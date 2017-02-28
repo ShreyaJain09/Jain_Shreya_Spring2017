@@ -1,0 +1,11 @@
+Name,City,Country Code,Days,Start,End
+texture london,London,GB,1,1200,1630
+texture london,London,GB,1,1830,2300
+texture london,London,GB,2,1200,1630
+texture london,London,GB,2,1830,2300
+texture london,London,GB,3,1200,1630
+texture london,London,GB,3,1830,2300
+texture london,London,GB,4,1200,1630
+texture london,London,GB,4,1830,2300
+texture london,London,GB,5,1200,1630
+texture london,London,GB,5,1830,2300

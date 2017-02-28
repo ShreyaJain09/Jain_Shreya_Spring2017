@@ -1,0 +1,11 @@
+Name,City,Country Code,Days,Start,End
+table    las vegas,Las Vegas,US,0,1100,1430
+table    las vegas,Las Vegas,US,1,1100,1430
+table    las vegas,Las Vegas,US,1,1700,2130
+table    las vegas,Las Vegas,US,2,1100,1430
+table    las vegas,Las Vegas,US,2,1700,2130
+table    las vegas,Las Vegas,US,3,1100,1430
+table    las vegas,Las Vegas,US,3,1700,2130
+table    las vegas,Las Vegas,US,4,1100,1430
+table    las vegas,Las Vegas,US,4,1700,2130
+table    las vegas,Las Vegas,US,5,1700,2130

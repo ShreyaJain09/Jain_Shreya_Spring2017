@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+el big bad houston,Houston,US,0,1600,2200
+el big bad houston,Houston,US,1,1600,0000
+el big bad houston,Houston,US,2,1600,0000
+el big bad houston,Houston,US,3,0400,0000
+el big bad houston,Houston,US,4,1100,0200
+el big bad houston,Houston,US,5,1100,0200
+el big bad houston,Houston,US,6,1100,2200

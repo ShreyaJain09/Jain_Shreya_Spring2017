@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+lowlander london,London,GB,0,1000,2200
+lowlander london,London,GB,1,1000,2200
+lowlander london,London,GB,2,1000,2200
+lowlander london,London,GB,3,1000,2300
+lowlander london,London,GB,4,0900,0000
+lowlander london,London,GB,5,0900,0000
+lowlander london,London,GB,6,1030,0000

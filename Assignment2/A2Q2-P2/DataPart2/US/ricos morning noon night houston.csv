@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+ricos morning noon night houston,Houston,US,0,1030,2030
+ricos morning noon night houston,Houston,US,1,1030,2030
+ricos morning noon night houston,Houston,US,2,1030,2030
+ricos morning noon night houston,Houston,US,3,1030,0000
+ricos morning noon night houston,Houston,US,4,1030,0300
+ricos morning noon night houston,Houston,US,5,0900,0300
+ricos morning noon night houston,Houston,US,6,0900,2030

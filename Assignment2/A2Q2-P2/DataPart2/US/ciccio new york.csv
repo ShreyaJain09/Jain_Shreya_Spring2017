@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+ciccio new york,New York,US,0,1130,2230
+ciccio new york,New York,US,1,1130,2300
+ciccio new york,New York,US,2,1130,2300
+ciccio new york,New York,US,3,1130,2300
+ciccio new york,New York,US,4,1130,0000
+ciccio new york,New York,US,5,1630,2330
+ciccio new york,New York,US,6,1630,2300

@@ -1,0 +1,10 @@
+Name,City,Country Code,Days,Start,End
+foragers table new york,New York,US,0,1730,2200
+foragers table new york,New York,US,1,1730,2200
+foragers table new york,New York,US,2,1730,2200
+foragers table new york,New York,US,3,1730,2200
+foragers table new york,New York,US,4,1730,2230
+foragers table new york,New York,US,5,1000,1430
+foragers table new york,New York,US,5,1730,2230
+foragers table new york,New York,US,6,1000,1430
+foragers table new york,New York,US,6,1730,2100

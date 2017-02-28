@@ -1,0 +1,15 @@
+Name,City,Country Code,Days,Start,End
+orient east melbourne,Melbourne,AU,0,0630,1430
+orient east melbourne,Melbourne,AU,0,1700,2200
+orient east melbourne,Melbourne,AU,1,0630,1430
+orient east melbourne,Melbourne,AU,1,1700,2200
+orient east melbourne,Melbourne,AU,2,0630,1430
+orient east melbourne,Melbourne,AU,2,1700,2200
+orient east melbourne,Melbourne,AU,3,0630,1430
+orient east melbourne,Melbourne,AU,3,1700,2200
+orient east melbourne,Melbourne,AU,4,0630,1430
+orient east melbourne,Melbourne,AU,4,1700,2300
+orient east melbourne,Melbourne,AU,5,0700,1430
+orient east melbourne,Melbourne,AU,5,1700,2300
+orient east melbourne,Melbourne,AU,6,0700,1430
+orient east melbourne,Melbourne,AU,6,1700,2100

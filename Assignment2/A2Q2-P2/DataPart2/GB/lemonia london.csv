@@ -1,0 +1,14 @@
+Name,City,Country Code,Days,Start,End
+lemonia london,London,GB,0,1200,1500
+lemonia london,London,GB,0,1800,2300
+lemonia london,London,GB,1,1200,1500
+lemonia london,London,GB,1,1800,2300
+lemonia london,London,GB,2,1200,1500
+lemonia london,London,GB,2,1800,2300
+lemonia london,London,GB,3,1200,1500
+lemonia london,London,GB,3,1800,2300
+lemonia london,London,GB,4,1200,1500
+lemonia london,London,GB,4,1800,2300
+lemonia london,London,GB,5,1200,1500
+lemonia london,London,GB,5,1800,2300
+lemonia london,London,GB,6,1200,1530

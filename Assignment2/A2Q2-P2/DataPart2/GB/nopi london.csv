@@ -1,0 +1,14 @@
+Name,City,Country Code,Days,Start,End
+nopi london,London,GB,0,0800,1445
+nopi london,London,GB,0,1730,2230
+nopi london,London,GB,1,0800,1445
+nopi london,London,GB,1,1730,2230
+nopi london,London,GB,2,0800,1445
+nopi london,London,GB,2,1730,2230
+nopi london,London,GB,3,0800,1445
+nopi london,London,GB,3,1730,2230
+nopi london,London,GB,4,0800,1445
+nopi london,London,GB,4,1730,2230
+nopi london,London,GB,5,1000,1130
+nopi london,London,GB,5,1200,2230
+nopi london,London,GB,6,1000,1600

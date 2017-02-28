@@ -1,0 +1,10 @@
+Name,City,Country Code,Days,Start,End
+the dawson chicago,Chicago,US,0,1630,2300
+the dawson chicago,Chicago,US,1,1630,0000
+the dawson chicago,Chicago,US,2,1630,0000
+the dawson chicago,Chicago,US,3,1630,0000
+the dawson chicago,Chicago,US,4,1600,0130
+the dawson chicago,Chicago,US,5,1030,1500
+the dawson chicago,Chicago,US,5,1600,0130
+the dawson chicago,Chicago,US,6,1030,1500
+the dawson chicago,Chicago,US,6,1600,2300

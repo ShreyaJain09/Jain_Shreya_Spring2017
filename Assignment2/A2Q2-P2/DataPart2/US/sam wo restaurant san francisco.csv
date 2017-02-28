@@ -1,0 +1,11 @@
+Name,City,Country Code,Days,Start,End
+sam wo restaurant san francisco,San Francisco,US,0,1100,1600
+sam wo restaurant san francisco,San Francisco,US,2,1100,1600
+sam wo restaurant san francisco,San Francisco,US,2,1800,0000
+sam wo restaurant san francisco,San Francisco,US,3,1100,1600
+sam wo restaurant san francisco,San Francisco,US,3,1800,0000
+sam wo restaurant san francisco,San Francisco,US,4,1100,1600
+sam wo restaurant san francisco,San Francisco,US,4,1800,0300
+sam wo restaurant san francisco,San Francisco,US,5,1100,1600
+sam wo restaurant san francisco,San Francisco,US,5,1800,0300
+sam wo restaurant san francisco,San Francisco,US,6,1100,1600

@@ -1,0 +1,9 @@
+Name,City,Country Code,Days,Start,End
+room    washington,Washington,US,0,0800,0100
+room    washington,Washington,US,1,0800,0100
+room    washington,Washington,US,2,0800,1500
+room    washington,Washington,US,2,1700,0100
+room    washington,Washington,US,3,0800,0100
+room    washington,Washington,US,4,0800,0200
+room    washington,Washington,US,5,0800,0200
+room    washington,Washington,US,6,0800,0100

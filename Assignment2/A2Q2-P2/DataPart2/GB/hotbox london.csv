@@ -1,0 +1,12 @@
+Name,City,Country Code,Days,Start,End
+hotbox london,London,GB,1,1200,1500
+hotbox london,London,GB,1,1800,2300
+hotbox london,London,GB,2,1200,1500
+hotbox london,London,GB,2,1800,2300
+hotbox london,London,GB,3,1200,1500
+hotbox london,London,GB,3,1800,2300
+hotbox london,London,GB,4,1200,1500
+hotbox london,London,GB,4,1800,0000
+hotbox london,London,GB,5,1130,1530
+hotbox london,London,GB,5,1800,0000
+hotbox london,London,GB,6,1130,1600

@@ -1,0 +1,15 @@
+Name,City,Country Code,Days,Start,End
+abc kitchen new york,New York,US,0,1200,1500
+abc kitchen new york,New York,US,0,1730,2230
+abc kitchen new york,New York,US,1,1200,1500
+abc kitchen new york,New York,US,1,1730,2230
+abc kitchen new york,New York,US,2,1200,1500
+abc kitchen new york,New York,US,2,1730,2230
+abc kitchen new york,New York,US,3,1200,1500
+abc kitchen new york,New York,US,3,1730,2300
+abc kitchen new york,New York,US,4,1200,1500
+abc kitchen new york,New York,US,4,1730,2330
+abc kitchen new york,New York,US,5,1100,1500
+abc kitchen new york,New York,US,5,1730,2330
+abc kitchen new york,New York,US,6,1100,1500
+abc kitchen new york,New York,US,6,1730,2200

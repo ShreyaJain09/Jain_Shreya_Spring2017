@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+smith seattle,Seattle,US,0,1600,0000
+smith seattle,Seattle,US,1,1600,0000
+smith seattle,Seattle,US,2,1600,0000
+smith seattle,Seattle,US,3,1600,0000
+smith seattle,Seattle,US,4,1600,0200
+smith seattle,Seattle,US,5,0900,0200
+smith seattle,Seattle,US,6,0900,0000

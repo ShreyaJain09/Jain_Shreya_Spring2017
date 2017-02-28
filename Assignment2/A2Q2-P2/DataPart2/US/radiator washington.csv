@@ -1,0 +1,15 @@
+Name,City,Country Code,Days,Start,End
+radiator washington,Washington,US,0,0700,1030
+radiator washington,Washington,US,0,1600,2330
+radiator washington,Washington,US,1,0700,1030
+radiator washington,Washington,US,1,1600,2330
+radiator washington,Washington,US,2,0700,1030
+radiator washington,Washington,US,2,1600,2330
+radiator washington,Washington,US,3,0700,1030
+radiator washington,Washington,US,3,1600,0130
+radiator washington,Washington,US,4,0700,1030
+radiator washington,Washington,US,4,1600,0130
+radiator washington,Washington,US,5,0800,1100
+radiator washington,Washington,US,5,1600,0130
+radiator washington,Washington,US,6,0800,1430
+radiator washington,Washington,US,6,1600,2330

@@ -1,0 +1,11 @@
+Name,City,Country Code,Days,Start,End
+flip n patties houston,Houston,US,0,1600,2200
+flip n patties houston,Houston,US,1,1100,1500
+flip n patties houston,Houston,US,1,1600,0100
+flip n patties houston,Houston,US,2,1100,1500
+flip n patties houston,Houston,US,2,1600,2200
+flip n patties houston,Houston,US,3,1100,1500
+flip n patties houston,Houston,US,3,1600,2200
+flip n patties houston,Houston,US,4,1100,1500
+flip n patties houston,Houston,US,4,1700,2200
+flip n patties houston,Houston,US,5,1200,2200

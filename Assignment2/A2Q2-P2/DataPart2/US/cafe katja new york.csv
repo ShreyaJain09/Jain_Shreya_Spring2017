@@ -1,0 +1,13 @@
+Name,City,Country Code,Days,Start,End
+cafe katja new york,New York,US,0,1700,2300
+cafe katja new york,New York,US,1,0900,2300
+cafe katja new york,New York,US,2,1100,1530
+cafe katja new york,New York,US,2,1700,2300
+cafe katja new york,New York,US,3,1100,1530
+cafe katja new york,New York,US,3,1700,2300
+cafe katja new york,New York,US,4,1100,1530
+cafe katja new york,New York,US,4,1700,0000
+cafe katja new york,New York,US,5,1100,1530
+cafe katja new york,New York,US,5,1700,0000
+cafe katja new york,New York,US,6,1100,1530
+cafe katja new york,New York,US,6,1700,2300

@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+rumors san francisco,San Francisco,US,0,1500,2300
+rumors san francisco,San Francisco,US,1,1500,0000
+rumors san francisco,San Francisco,US,2,1500,0000
+rumors san francisco,San Francisco,US,3,1500,0200
+rumors san francisco,San Francisco,US,4,1500,0200
+rumors san francisco,San Francisco,US,5,1500,0200
+rumors san francisco,San Francisco,US,6,1300,2200

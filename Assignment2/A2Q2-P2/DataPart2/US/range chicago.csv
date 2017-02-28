@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+range chicago,Chicago,US,0,1600,2100
+range chicago,Chicago,US,1,1600,2100
+range chicago,Chicago,US,2,1600,2100
+range chicago,Chicago,US,3,1600,2100
+range chicago,Chicago,US,4,1600,2200
+range chicago,Chicago,US,5,0900,2200
+range chicago,Chicago,US,6,0900,2100

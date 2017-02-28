@@ -1,0 +1,14 @@
+Name,City,Country Code,Days,Start,End
+chow glasgow,Glasgow,GB,0,1200,1400
+chow glasgow,Glasgow,GB,0,1700,2330
+chow glasgow,Glasgow,GB,1,1200,1400
+chow glasgow,Glasgow,GB,1,1700,2330
+chow glasgow,Glasgow,GB,2,1200,1400
+chow glasgow,Glasgow,GB,2,1700,2330
+chow glasgow,Glasgow,GB,3,1200,1400
+chow glasgow,Glasgow,GB,3,1700,2330
+chow glasgow,Glasgow,GB,4,1200,1400
+chow glasgow,Glasgow,GB,4,1700,0000
+chow glasgow,Glasgow,GB,5,1200,1400
+chow glasgow,Glasgow,GB,5,1700,0000
+chow glasgow,Glasgow,GB,6,1630,2330

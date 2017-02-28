@@ -1,0 +1,10 @@
+Name,City,Country Code,Days,Start,End
+stateside seattle,Seattle,US,0,1700,2230
+stateside seattle,Seattle,US,1,1700,2230
+stateside seattle,Seattle,US,2,1700,2230
+stateside seattle,Seattle,US,3,1700,2230
+stateside seattle,Seattle,US,4,1700,2230
+stateside seattle,Seattle,US,5,1000,1400
+stateside seattle,Seattle,US,5,1700,2230
+stateside seattle,Seattle,US,6,1000,1400
+stateside seattle,Seattle,US,6,1700,2230

@@ -1,0 +1,7 @@
+Name,City,Country Code,Days,Start,End
+open table auckland,Auckland,NZ,1,0700,1500
+open table auckland,Auckland,NZ,2,0700,1500
+open table auckland,Auckland,NZ,3,0700,1500
+open table auckland,Auckland,NZ,4,0700,1500
+open table auckland,Auckland,NZ,5,0800,1530
+open table auckland,Auckland,NZ,6,0800,1530

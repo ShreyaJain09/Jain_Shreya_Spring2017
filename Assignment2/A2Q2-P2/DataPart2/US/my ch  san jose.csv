@@ -1,0 +1,13 @@
+Name,City,Country Code,Days,Start,End
+my ch  san jose,San Jose,US,0,0600,0900
+my ch  san jose,San Jose,US,0,1200,2000
+my ch  san jose,San Jose,US,1,0600,0900
+my ch  san jose,San Jose,US,1,1200,2000
+my ch  san jose,San Jose,US,2,0600,0900
+my ch  san jose,San Jose,US,2,1200,2000
+my ch  san jose,San Jose,US,3,0600,0900
+my ch  san jose,San Jose,US,3,1200,2000
+my ch  san jose,San Jose,US,4,0600,0900
+my ch  san jose,San Jose,US,4,1200,2000
+my ch  san jose,San Jose,US,5,1100,2200
+my ch  san jose,San Jose,US,6,1100,1800

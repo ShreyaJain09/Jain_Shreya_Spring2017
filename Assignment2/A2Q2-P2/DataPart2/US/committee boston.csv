@@ -1,0 +1,8 @@
+Name,City,Country Code,Days,Start,End
+committee boston,Boston,US,0,1130,2300
+committee boston,Boston,US,1,1130,2300
+committee boston,Boston,US,2,1130,2300
+committee boston,Boston,US,3,1130,0200
+committee boston,Boston,US,4,1130,0200
+committee boston,Boston,US,5,1100,0200
+committee boston,Boston,US,6,1100,2300
