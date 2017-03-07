@@ -105,9 +105,11 @@ This analysis requires following operations to be performed:
 
 
 Steps:
-- Retrieve Data
-  > MostEmailed URL emailed_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostemailed/all-sections/30.json?api-key=8171f9b6eba24d638bd7986a927e3a35'
+- Retrieve Data> 
+MostEmailed URL emailed_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostemailed/all-sections/30.json?api-key=8171f9b6eba24d638bd7986a927e3a35'
+
 MostViewed URLviewed_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/30.json?api-key=8171f9b6eba24d638bd7986a927e3a35'
+
 MostShared URL shared_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostshared/all-sections/30.json?api-key=8171f9b6eba24d638bd7986a927e3a35'
  - Iterate through multiple API calls
    >for i in range(0, pages):
