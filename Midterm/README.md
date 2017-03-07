@@ -106,11 +106,11 @@ This analysis requires following operations to be performed:
 
 Steps:
 - Retrieve Data> 
-MostEmailed URL emailed_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostemailed/all-sections/30.json?api-key=8171f9b6eba24d638bd7986a927e3a35'
+MostEmailed URL emailed_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostemailed/all-sections/30.json?api-key=api-key-variable'
 
-MostViewed URLviewed_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/30.json?api-key=8171f9b6eba24d638bd7986a927e3a35'
+MostViewed URLviewed_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/30.json?api-key=api-key-variable'
 
-MostShared URL shared_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostshared/all-sections/30.json?api-key=8171f9b6eba24d638bd7986a927e3a35'
+MostShared URL shared_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostshared/all-sections/30.json?api-key=api-key-variable'
  - Iterate through multiple API calls
    >for i in range(0, pages):
     >    offset = i*20
@@ -126,7 +126,9 @@ MostShared URL shared_url= 'https://api.nytimes.com/svc/mostpopular/v2/mostshare
     dict_writer.writeheader()
     dict_writer.writerows(popular)
 
-The most challenging part of the collecting data was to iterate through multiple api calls. Unlike other APIs, this API uses [*offset*] value instead of ['pages']. Also, the 'offset value has to be multiple of [20][dill] to get successful results. 
+The most challenging part of the collecting data was to iterate through multiple api calls. Unlike other APIs, this API uses [*offset*] value instead of ['pages']. Also, the 'offset value has to be multiple of [20][dill] to get successful results.
+
+NOTE : Set environment variable as api-key:os.environ['api-key-variable]
 
 ### Analysis 1: Number of Popular articles by Year
 
