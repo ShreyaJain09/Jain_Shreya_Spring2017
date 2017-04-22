@@ -61,3 +61,63 @@ DISTRIBUTION OF REGIONS IN BAY AREA BASED ON THE NUMBER OF TRIPS
 5. To confirm that the plot with the end terminal matches the plot with the end stations.
 ```
 
+### Conclusion
+
+From the first analysis there are certain things that can be concluded which is
+1. San Fransisco is the Top Station in the Bay Area.
+2. San Fransisco has most of the rides starting from their station.
+3. San Fransisco has even more ride ending at their station.
+4. Also, per year around 25000 bikes start from SF and 28000 bikes come back to SF station
+
+It can be infered that more number of bikes should always be presnt in SF area as that has the highest traveling rate and would always be requiring more number of bikes when compared to the other stations.
+
+
+# ANALYSIS 2
+
+Interaction between all the stations in the bay area using the Haversine Formula defined in the code
+
+```
+1. Examining traffic between all the stations
+
+```
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis2/StationUsage_customers.png)
+
+```
+Traffic between stations for customers
+```
+
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis2/StationUsage_subscribers.png)
+
+```
+Traffic between stations for subscribers
+```
+
+```
+Created a Heat Map to get the number of rides determination between all the stations for both the Subscribers and the Customers. From the heat map it can be seen that station terminal from 40 -90 is all having heavy traffic between stationa and this also confirm the heavy traffic in SF. The heat map also shows the relation between one station to another and the relations between stations. For customers heat map it is seen that there is not much of traffic for customers as they would be the travelers who are visiting bay area and prefer takin smaller stops.
+```
+### Conclusion
+It can be concluded that 
+1. The distribution of traffic is different for customers and subscribers.
+2. A fewer stations have a huge percentage of traffic compared to the other stations. 
+
+
+# ANALYSIS 3
+
+Calculating the total trips made in the whole dataset using the usage_stats() function. Also, analyzed the statistics in respect to how the trip looked like in the over all sense. 
+![ALT TAG]()
+
+```
+
+```
+
+![ALT TAG]()
+
+```
+
+```
+
+![ALT TAG]()
+
+```
+
+```
