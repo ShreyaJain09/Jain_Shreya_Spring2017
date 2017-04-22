@@ -80,13 +80,10 @@ Interaction between all the stations in the bay area using the Haversine Formula
 1. Examining traffic between all the stations
 
 ```
-![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis2/StationUsage_customers.png)
 Traffic between stations for customers
-
-
-![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis2/StationUsage_subscribers.png)
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis2/StationUsage_customers.png)
 Traffic between stations for subscribers
-
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis2/StationUsage_subscribers.png)
 ```
 Created a Heat Map to get the number of rides determination between all the stations for both the Subscribers and the Customers. From the heat map it can be seen that station terminal from 40 -90 is all having heavy traffic between stationa and this also confirm the heavy traffic in SF. The heat map also shows the relation between one station to another and the relations between stations. For customers heat map it is seen that there is not much of traffic for customers as they would be the travelers who are visiting bay area and prefer takin smaller stops.
 ```
@@ -102,8 +99,6 @@ It can be concluded that
 ```
 ![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis3/usage_stats.png)
 It can be noted that there were 312121 trips made in the year 2015-2016 in the Bay Area. Also it is surprising to note that the average trip duration is greater than the median trip duration which explains the shorter trips in the analysis 1.
-
-
 ```
 2. Using the data_plot function to see how these trips are layed down based on the duration of time. 
 What does the distribution of trip durations look like?
@@ -112,7 +107,7 @@ What does the distribution of trip durations look like?
 It looks pretty strange. Looking at the duration value on x-axis it can be seen that most of the rides are in the duration of less than 1650. Since all the rides are expected to be 30 minutes or less as there is an overage charges for longer rides in one single trip. It shows the span of duration mostly upto 1200 minutes which is equivalent to around 17 hours.
 From the statistics that I got from the usage_stats, it was expected that some trips would be really long which brings the average value to be so much higher than the median.
 
-To understand the data better, using the visualization function. Setting filters as a list of conditions for the data points. Limiting the Duration to be less than 60 minutes.
+3. To understand the data better, using the visualization function. Setting filters as a list of conditions for the data points. Limiting the Duration to be less than 60 minutes.
 ![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis3/TripsByDuration.png)
 This also does not give a lot of idea about the trip. To understand it better, plotting the graph for all the trips under 1600 minutes.
 
@@ -138,7 +133,9 @@ Using the second argument of the function usage_stats() to count up the trips ac
 ```
 ![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/analysis4/Subscription.png)
 It can be inferred that around 10% of the total trips were made by Customers and the remaining 90% were made by the Subscribers. Customers made around 30000 trips where as the subscribers made around 280000 which is equivalent to the total number of trips that is 312121.
-
+```
+Understanding of the trends of customer and subscribers.
+```
 ![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/analysis4/SubscriptionMetrics.png)
 Perfect. This gives the a very good picture of the spread of customers and subscribers in the dataset. As seen in the graphs above it can be said that customers are 10% of the total riders. From how it should have been, the customers having a high median duration of rentals compared to that of subscribers.
 
@@ -151,14 +148,16 @@ It can be concluded that,
 # ANALYSIS 5
 
 Now that I know the trips made between the different subscription types and different places where the trips happened, I would want to know about the overtime fees and the traffic during the hour of the day.
-Plot to see the duration of rides for the different subscription type and their overtime.
 
+1. Plot to see the duration of rides for the different subscription type and their overtime.
 ![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis5/WeekPlot.png)
 The plot shows the trend of trips made by the subscribers and the customers. Also,from the plot it can be seen that that mostly customers are the ones who pays the overtime fee.
 
-![ALT TAG]()
+2. To calculate the overtime fee paid by the subscribers and the customers
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis5/Overtime.png)
 It tells us the exact over time feee paid by the subscribers and the customers. 29% of customers pay an overtime fee and very negligible amount of subscribers would pay the overtime fee. This alos matches from the graph plotted above which gives us a very good visualiztion of customers paying overtime fee.
 
+3. Pattern between the subscribers and customers over the day of the week
 ![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis5/WeekTrend.png)
 
 ![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis5/Pattern%20over%20the%20week.png)
