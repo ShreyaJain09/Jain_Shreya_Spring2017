@@ -1,4 +1,4 @@
-![alt tag](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/Images/bay_area_bike_share.png)
+![alt tag](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/final/Images/bay_area_bike_share.png)
 # PYTHON EXPLORATORY ANALYSIS - BAY AREA BIKE SHARE
 
 ## Introduction
@@ -31,31 +31,31 @@ After cleaning the Data, the cleaned data has been saved to the output folder.
 
 DISTRIBUTION OF REGIONS IN BAY AREA BASED ON THE NUMBER OF TRIPS
 
-![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis1/landmark.png)
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/final/Analysis/ana_%5B1-5%5D/Analysis1/landmark.png)
 
 ```
 1. From the landmark plot it can be seen that the top stations are Mountain View, Palo Alto, San Fransisco and San Jose. It can also be analyzed that San Fransisco gets the highest number of trips followed by San Jose being the half of SF and Mountain View and Palo Alto the other halfs of San Jose.
 ```
 
-![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis1/Start_station.png)
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/final/Analysis/ana_%5B1-5%5D/Analysis1/Start_station.png)
 
 ```
 2. From the list of 91 stations, it can be seen which station has most of the trips starting from there. It can be analyzed that the stations in SF region is ranked as the highest start station. And the total number of trips started from SF over the year is in between 25000 - 20000.
 ```
 
-![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis1/End_station.png)
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/final/Analysis/ana_%5B1-5%5D/Analysis1/End_station.png)
 
 ```
 3. Again, from the list of 61 stations, it can be noticed that SF is the End Stations for most of the trips. And the total number of trips ended at SF over the year is closer to 30000 which more than the start stations.
 ```
 
-![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis1/Start_Terminal.png)
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/final/Analysis/ana_%5B1-5%5D/Analysis1/Start_Terminal.png)
 
 ```
 4. To confirm that the plot with the start terminal matches the plot with the start stations.
 ```
 
-![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/FinalProject/AnalysisPlot/Analysis1/End_Terminal.png)
+![ALT TAG](https://github.com/ShreyaJain09/Jain_Shreya_Spring2017/blob/master/final/Analysis/ana_%5B1-5%5D/Analysis1/End_Terminal.png)
 
 ```
 5. To confirm that the plot with the end terminal matches the plot with the end stations.
